@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @dev1508
+- 👀 I’m interested in competitive programming.
+- 🌱 I’m currently learning django.
